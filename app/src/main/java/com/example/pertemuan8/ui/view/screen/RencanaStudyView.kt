@@ -68,4 +68,12 @@ fun RencanaStudiView(
                 .fillMaxSize()
                 .padding(16.dp), verticalAlignment = Alignment.CenterVertically
         ){
+            Image(
+                painter = painterResource(id = R.drawable.foto),
+                contentDescription = "",
+                modifier = Modifier
+                    .clip(shape = CircleShape)
+                    .size(50.dp)
+            )
+        }
 
