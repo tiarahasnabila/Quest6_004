@@ -1,3 +1,3 @@
-![SSnewAwal](https://github.com/user-attachments/assets/13588330-2bc2-4184-81ea-e9c9f3c1c0e8)
-![SSbagianisi](https://github.com/user-attachments/assets/9b371a82-fa8e-4142-aa09-22b0bf84f164)
-![SShasilnya](https://github.com/user-attachments/assets/6f8df688-a833-4502-abb7-c09f907c2f67)
+![SSpert8](https://github.com/user-attachments/assets/a7840842-775b-47a1-9742-bddd05e4b87c)
+![SSterbaru](https://github.com/user-attachments/assets/c41a6682-097e-4ff9-bc82-0f48454317c9)
+![Ssakhir](https://github.com/user-attachments/assets/5dcc7ffa-509d-45a6-be04-39a05de8e90b)
