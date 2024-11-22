@@ -57,3 +57,15 @@ fun RencanaStudiView(
         mutableStateOf("")
     }
     var listData: MutableList<String> = mutableListOf(chosenDropdown, pilihanKelas)
+
+    Column (
+        modifier = Modifier
+            .fillMaxSize()
+            .background(color = colorResource(id = R.color.primary))
+    ){
+        Row (
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(16.dp), verticalAlignment = Alignment.CenterVertically
+        ){
+
