@@ -10,5 +10,11 @@ class MahasiswaViewModel : ViewModel() {
 
     private val _mahasiswaStateUI = MutableStateFlow(Mahasiswa())
     val mahasiswaUIState: StateFlow<Mahasiswa> = _mahasiswaStateUI.asStateFlow()
-
-}
+    fun saveDataMahasiswa(ls: MutableList<String>) {
+        _mahasiswaStateUI.value = Mahasiswa(
+            nim = ls[0],
+            nama = ls[1],
+            email = ls[2]
+        )
+    }
+    }
